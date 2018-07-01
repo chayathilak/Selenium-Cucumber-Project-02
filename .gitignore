@@ -1,0 +1,10 @@
+/target/
+/out/
+/test-output/
+/bin/
+/.settings/
+/.idea/
+/doc/
+Ustock.iml
+.classpath
+.project
